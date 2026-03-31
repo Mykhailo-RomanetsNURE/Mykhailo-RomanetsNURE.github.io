@@ -1,11 +1,11 @@
 
 
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Современный шрифт */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
     line-height: 1.6;
     color: #333;
     max-width: 800px;
-    margin: 40px auto; /* Центрируем всё содержимое на странице */
+    margin: 40px auto;
     padding: 20px;
     background-color: #f9f9f9;
 }
@@ -14,15 +14,15 @@ h1 {
     text-align: center;
     color: #2c3e50;
     margin-bottom: 30px;
-    border-bottom: 2px solid #3498db; /* Линия под заголовком */
+    border-bottom: 2px solid #3498db;
     padding-bottom: 10px;
 }
 
 table {
     width: 100%;
-    border-collapse: collapse; /* Убирает двойные рамки */
+    border-collapse: collapse;
     background: white;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.1); /* Легкая тень */
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
     margin-bottom: 30px;
 }
 
@@ -33,17 +33,17 @@ th, td {
 }
 
 th {
-    background-color: #3498db; /* Синий заголовок таблицы */
+    background-color: #3498db;
     color: white;
     font-weight: 600;
 }
 
 tr:nth-child(even) {
-    background-color: #f2f2f2; /* "Зебра" для строк */
+    background-color: #f2f2f2; 
 }
 
 tr:hover {
-    background-color: #e9f5ff; /* Подсветка строки при наведении */
+    background-color: #e9f5ff;
 }
 
 a {
