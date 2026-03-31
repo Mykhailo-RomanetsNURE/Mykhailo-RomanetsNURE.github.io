@@ -1,1 +1,0 @@
-# Mykhailo-RomanetsNURE.github.io
